@@ -1,0 +1,22 @@
+
+table, th, td {
+border: 1px solid black;
+height: 65px;
+text-align: center;
+}
+tr:nth-child(1){
+    background-color: #009393;
+}
+tr:nth-child(10){
+    background-color: #009393;
+}
+tr:nth-child(3) {
+    background-color: #CCFF99;
+}
+tr{
+    background-color: #FFFFCE;
+}
+table
+{
+    width: 100%;
+}
